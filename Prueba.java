@@ -4,6 +4,7 @@ public class Prueba {
 
 		System.out.println("Riestra Ricote");
 		System.out.println("18 a\u00f1os - 23/02/2004");
+		System.out.println("Mi comida favorita son los espaguetis");
 
 	}
 
