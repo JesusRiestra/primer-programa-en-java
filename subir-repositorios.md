@@ -8,6 +8,5 @@ Ver todos los repositorios remotos vinculados --> **git remote -v**
 
 [Listado de commits en GitHub](https://i.imgur.com/R3ELDA3.png)
 
-[Pantalla del último commit](https://i.imgur.com/cptaBEe.png)
+[Pantalla del último commit](https://i.imgur.com/i3ElKe3.png)
 
-[Comando de Git para ver repositorios remotos vinculados](https://i.imgur.com/VSkKlau.png)
