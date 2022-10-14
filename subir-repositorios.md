@@ -6,7 +6,7 @@ Subir contenido actualizado --> **git push origin master**
 
 Ver todos los repositorios remotos vinculados --> **git remote -v**
 
-[Listado de commits en GitHub](https://i.imgur.com/pB4r21B.png)
+[Listado de commits en GitHub](https://i.imgur.com/R3ELDA3.png)
 
 [Pantalla del último commit](https://i.imgur.com/cptaBEe.png)
 
