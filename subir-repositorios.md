@@ -1,6 +1,6 @@
-### COMANDOS PARA SUBIR UN REPOSITORIO LOCAL
+### COMANDOS 
 
-**git remote add origin _enlaceanuestroperfildegithub_**
+Ver todos los repositorios remotos vinculados --> **git remote -v**
 
 **git push -u origin master**
 
