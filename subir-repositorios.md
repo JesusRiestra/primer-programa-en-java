@@ -1,5 +1,6 @@
 ### COMANDOS 
 
+Descargar y actualizar contenido de un repositorio remoto a local --> **git pull**
 Ver todos los repositorios remotos vinculados --> **git remote -v**
 
 **git push -u origin master**
